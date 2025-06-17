@@ -1,0 +1,6 @@
+/home/arecles/Universidad/2025-A/TIA/Kohone/SOM3D_Fashion/build/CMakeFiles/rebuild_cache.dir
+/home/arecles/Universidad/2025-A/TIA/Kohone/SOM3D_Fashion/build/CMakeFiles/edit_cache.dir
+/home/arecles/Universidad/2025-A/TIA/Kohone/SOM3D_Fashion/build/CMakeFiles/summary_report.dir
+/home/arecles/Universidad/2025-A/TIA/Kohone/SOM3D_Fashion/build/CMakeFiles/test_mapper.dir
+/home/arecles/Universidad/2025-A/TIA/Kohone/SOM3D_Fashion/build/CMakeFiles/visualize_som.dir
+/home/arecles/Universidad/2025-A/TIA/Kohone/SOM3D_Fashion/build/CMakeFiles/train_som.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_som.dir/utils/test_neuron_finder.cpp.o CMakeFiles/test_som.dir/src/som.cpp.o -o test_som 

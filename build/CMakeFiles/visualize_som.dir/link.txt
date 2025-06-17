@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/visualize_som.dir/src/visualize_som.cpp.o CMakeFiles/visualize_som.dir/src/glad.c.o CMakeFiles/visualize_som.dir/src/renderer.cpp.o CMakeFiles/visualize_som.dir/src/som.cpp.o -o visualize_som  -lglfw -lGL 

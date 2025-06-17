@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/train_som.dir/src/train_som.cpp.o CMakeFiles/train_som.dir/src/som.cpp.o -o train_som 
