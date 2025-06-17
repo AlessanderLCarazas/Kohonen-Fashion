@@ -1,6 +1,7 @@
 # Kohonen-Fashion
 
 
+
 # SOM3D_Fashion
 
 Este proyecto implementa un **Mapa Autoorganizado (Self-Organizing Map, SOM)** tridimensional para el análisis y visualización de datos de moda (Fashion MNIST). Utiliza C++ con OpenGL para la visualización y CMake como sistema de construcción. Su objetivo principal es entrenar un SOM con vectores de entrada de alta dimensión y visualizar cómo se organizan topológicamente en un espacio 3D.
