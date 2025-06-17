@@ -124,6 +124,22 @@ make
 
 ---
 
+##  RESULTADOS:
+
+![image](https://github.com/user-attachments/assets/c4474935-1707-453b-aba0-90c80a52af1e)
+
+![image](https://github.com/user-attachments/assets/6617aed0-ab80-4899-8f27-a5fe0045b09a)
+
+![image](https://github.com/user-attachments/assets/7c669b07-a598-456d-b3da-e440a49c3b4e)
+
+![image](https://github.com/user-attachments/assets/8e4e5508-ba07-4524-b804-d2e71200ef68)
+
+![image](https://github.com/user-attachments/assets/21927ecd-59f3-4ddf-8b8b-4940bfa48c35)
+
+![image](https://github.com/user-attachments/assets/69e4c5da-93ff-4da7-90c1-5d7cdd435987)
+
+---
+
 ##  Posibles Mejoras
 
 - Añadir opciones interactivas en la visualización (rotación libre, zoom, etiquetas).
